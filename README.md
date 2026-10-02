@@ -35,9 +35,9 @@ KPI cards (Total Orders, SLA Breach %, On-Time %, Avg Delivery Days), SLA breach
 **Page 2 — Operations Deep Dive**
 Worst-performing sellers, worst origin→destination lanes, worst bottleneck cities, warehouse-handling vs. transit delay breakdown, SLA breach by route type, and an AI-generated insights panel.
 
-*(Add dashboard screenshots here, e.g. `![Page 1](powerbi/screenshots/page1.png)`)*
+   ![Page 1 - Executive Overview](powerbi/screenshots/page1.png)
 
----
+   ![Page 2 - Operations Deep Dive](powerbi/screenshots/page2.png)
 
 ## Key Findings
 

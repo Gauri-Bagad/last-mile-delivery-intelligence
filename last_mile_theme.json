@@ -1,0 +1,59 @@
+{
+  "name": "Last-Mile Delivery Intelligence",
+  "dataColors": [
+    "#4472C4",
+    "#2E9E9E",
+    "#ED7D31",
+    "#C00000",
+    "#2ECC71",
+    "#FFC000",
+    "#8FAADC",
+    "#70AD47"
+  ],
+  "background": "#F5F6FA",
+  "foreground": "#262626",
+  "tableAccent": "#2E9E9E",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#E1E2E6" } },
+            "radius": 8
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#000000" } },
+            "transparency": 85,
+            "position": "Outer",
+            "shadowBlur": 6,
+            "shadowDistance": 2,
+            "shadowSpread": 0,
+            "preset": "Custom"
+          }
+        ]
+      }
+    }
+  },
+  "textClasses": {
+    "title": {
+      "fontSize": 14,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#262626"
+    },
+    "label": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI",
+      "color": "#595959"
+    }
+  }
+}
